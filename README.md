@@ -3,8 +3,4 @@ A NLP classifier model to judge product reviews if they are good or bad. the mod
 Current Average Accuracy using 3 models - 77%
 
 ## Libraries Used
-##### Numpy
-##### Pandas
-##### nltk
-##### re
-##### sklearn
+Numpy<br> Pandas<br> nltk<br> re<br> sklearn<br>
